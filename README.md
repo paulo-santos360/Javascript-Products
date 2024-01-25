@@ -25,7 +25,7 @@ Este repositório apresenta um aplicativo web simples para exibir um cardápio d
 
 ## Visualização
 
-(![Alt text](project.png)
+![Alt text](project.png)
 
 
 
